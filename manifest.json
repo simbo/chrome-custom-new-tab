@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "chrome-custom-new-tab",
+  "version": "0.1.0",
+  "description": "Override the new page page.",
+  "homepage_url": "https://github.com/simbo/chrome-custom-new-tab",
+  "chrome_url_overrides": {
+  "newtab": "index.html"
+  }
+}
